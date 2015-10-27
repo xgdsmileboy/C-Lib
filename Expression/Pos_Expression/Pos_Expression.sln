@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pos_Expression", "Pos_Expression\Pos_Expression.vcxproj", "{BFF7602B-9D0C-478E-B45A-2443A8998A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF7602B-9D0C-478E-B45A-2443A8998A9E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFF7602B-9D0C-478E-B45A-2443A8998A9E}.Debug|Win32.Build.0 = Debug|Win32
+		{BFF7602B-9D0C-478E-B45A-2443A8998A9E}.Release|Win32.ActiveCfg = Release|Win32
+		{BFF7602B-9D0C-478E-B45A-2443A8998A9E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
